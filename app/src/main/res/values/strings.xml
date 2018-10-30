@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">InClass07</string>
+    <string name="emailHint_str">Email</string>
+    <string name="passwordHint_str">Password</string>
+    <string name="login_str">Login</string>
+    <string name="signUp_str">Sign Up</string>
+    <string name="firstNameHint_str">First Name</string>
+    <string name="lastNameHint_str">Last Name</string>
+    <string name="password1Hint_str">Choose Password</string>
+    <string name="passwordConfirmHint_str">Repeat Password</string>
+    <string name="cancelBtn_str">Cancel</string>
+    <string name="currentThreads_str">Current Threads</string>
+    <string name="newThreadHint_str">Add New Thread</string>
 </resources>
